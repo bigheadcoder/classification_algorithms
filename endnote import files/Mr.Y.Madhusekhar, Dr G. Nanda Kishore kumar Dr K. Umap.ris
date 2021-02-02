@@ -1,0 +1,15 @@
+TY  - JOUR
+AU  - Mr.Y.Madhusekhar, Dr.G.Nanda Kishore kumar, Dr.K.Umapavankumar, Mr.R.Mantru naik, 
+PY  - 2020/06/01
+Y2  - 2021/02/02
+TI  - Frequently used classification algorithms in Machine Learning with comparative analysis of various parameters
+JF  - International Journal of Advanced Science and Technology
+JA  - IJAST
+VL  - 29
+IS  - 7
+SE  - Articles
+DO  - 
+UR  - http://sersc.org/journals/index.php/IJAST/article/view/27585
+SP  - 11528-11529
+AB  - Machine Learning(ML) is a new trend in the current industry and research, the algorithms which are relevant to supervised learning are more accurate and faster to predict the results of the huge datasets. The popular algorithms in supervised learning are classification algorithms.Classification is a process of setting up the boundary conditions to predict the target class and provides a classifier so as to determine the possible outcome based on the independent variables. For example, in the allocation of&nbsp; the flats to the customers based on the salary range of the customer, type of the locality(urban, semi-urban), previous customer of the company to predict the outcome the best method is applicability of classification techniques. The most frequently used classification techniques in the literature of ML are Logistic Regression, Decision Trees, Random forest, Naïve Bayes classifies, K-nearest neighbour , Support Vector Machine(SVM) and Neural networks.Logistic Regression helps us to predict house prices in the specified area can be implemented, with the help of decision trees the prediction of the situations like whether the play is going to happened or not based on weather conditions. Random forest helps us to generate various decision trees so as to get the better reviews to decide to view a movie or not.Based on the diabetes data set with different parameters the prediction of diabetes can be done, Support Vector Machine gives various dimensions in the space for better predictions. The Neural Networks allows the simulation of brain functionality with algorithmic perspective. The current work focus on the importance of the classification algorithms along with the implementation and comparative analysis, the outcome of the work is to estimate the efficiency of the algorithms on the various data sets. The work also focus on issues and research gaps and future scope of the classification algorithms in the real time scenarios
+ER  -
